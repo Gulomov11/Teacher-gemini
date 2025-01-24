@@ -15,6 +15,6 @@ course.setPrice(212);
         System.out.println(course.getDuration());
 
         System.out.println(course.getCourseInfo());
-
+        System.out.println("qale");
     }
 }
