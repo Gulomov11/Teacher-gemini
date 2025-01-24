@@ -17,6 +17,6 @@ course.setPrice(212);
 
         System.out.println("qale");
         System.out.println("nima gap");
-
+        System.out.println("mazgila man geniman");
     }
 }
