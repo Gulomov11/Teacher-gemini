@@ -16,5 +16,6 @@ course.setPrice(212);
 
         System.out.println(course.getCourseInfo());
         System.out.println("qale");
+        System.out.println("nima gap");
     }
 }
